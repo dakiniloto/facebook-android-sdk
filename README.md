@@ -1,4 +1,4 @@
-# Facebook SDK for iOS
+# Facebook SDK 
 
 [![Platforms](https://img.shields. /cocoapods/p/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
 [![circleci](https://circleci.com/gh/facebook/facebook-sdk/tree/main.svg?style=shield)](https://circleci.com/gh/facebook/facebook-sdk/tree/main)
