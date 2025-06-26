@@ -35,14 +35,14 @@ Due to the release of iOS 14, tracking events that your app collects and sends t
 
 link to FB blogpost https://developers.facebook.com/blog/post/2020/10/22/preparing-for-apple-app-store-data-disclosure-requirements/
 
-apple store details https://developer.apple.com/app-store/app-privacy-details/
+apple store details https://developer.android.com/app-store/app-privacy-details/
 
 ## FEATURES
 
 - Login - <https://developers.facebook.com/docs/facebook-login>
 - Sharing - <https://developers.facebook.com/docs/sharing>
 - App Links - <https://developers.facebook.com/docs/applinks>
-- Graph API - <https://developers.facebook.com/docs/ios/graph>
+- Graph API - <https://developers.facebook.com/docs/android/graph>
 - Analytics - <https://developers.facebook.com/docs/analytics>
 
 ## GIVE FEEDBACK
@@ -51,7 +51,7 @@ Please report bugs or issues to our designated developer support team -- <https:
 
 You can also visit our [Facebook Developer Community Forum](https://developers.facebook.com/community/),
 join the [Facebook Developers Group on Facebook](https://www.facebook.com/groups/fbdevelopers/),
-ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/facebook-ios-sdk),
+ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/facebook-sdk),
 or open an issue in this repository.
 
 ## CONTRIBUTE
@@ -85,4 +85,4 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
   <https://www.facebook.com/policies/>, including our Platform Policies <https://developers.facebook.com/policy/> and
   Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
-By using the Facebook SDK for iOS you agree to these terms.
+By using the Facebook SDK for agree to these terms.
